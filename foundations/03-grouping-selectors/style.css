@@ -1,0 +1,14 @@
+.ele1 {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+.ele2 {
+    background-color: yellow;
+         
+}
+.ele1,
+.ele2{
+    font-size: 28px;
+    font-family: helvetica, 'Times-new-roman', sans-serif;
+}
